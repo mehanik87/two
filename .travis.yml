@@ -1,2 +1,9 @@
 language: java
-mvn clean install
+ -  env:
+ -    global:
+ -      - SONATYPE_USERNAME=yourusername
+ - @@ -7,4 +6,5 @@ env:
+ -      
+ -  after_success:
+ -    - mvn clean deploy --settings ~/.m2/mySettings.xml
+ -    - mvn deploy --settings travis-settings.xml -DskipTests=false -B
