@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - Contacts@localhost" uuid="e9f28c3e-3dfc-4cad-9e10-e27defa8768d">
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <schema-pattern>Contacts.pg_catalog Contacts.public</schema-pattern>
+      <default-schemas>Contacts.pg_catalog Contacts.public</default-schemas>
+    </data-source>
+  </component>
+</project>
