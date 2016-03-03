@@ -1,0 +1,4 @@
+controller\MainServlet.class
+dao\ConnectionProvider.class
+dao\ContactsDao.class
+model\Contact.class
