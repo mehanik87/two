@@ -4,6 +4,5 @@
     <file url="file://$PROJECT_DIR$/src/main/java/dao/ConnectionProvider.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/model/Contact.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/webapp/index.jsp" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/test/java/ConnectionProviderTest.java" charset="UTF-8" />
   </component>
 </project>
